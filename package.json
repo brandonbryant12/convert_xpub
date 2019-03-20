@@ -1,0 +1,16 @@
+{
+  "name": "xpub_convert",
+  "version": "1.0.0",
+  "description": "Package to convert dkrp exteded key to xpub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brandon Bryant",
+  "license": "ISC",
+  "dependencies": {
+    "bs58": "^4.0.1",
+    "bs58check": "^2.1.2",
+    "sha256": "^0.2.0"
+  }
+}
